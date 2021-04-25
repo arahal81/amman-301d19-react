@@ -6,6 +6,8 @@ const theOldWay = function(course) {
   return `I am currently enrolled in ${course}`;
 };
 
+
+
 // TODO: Uncomment the following line of code to see the output in the browser console
  console.log('The old way:', theOldWay('Code 301'));
 
